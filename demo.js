@@ -480,7 +480,8 @@ function setParsed(parsed, lexed) {
     //$previewIframe.contentDocument.body.innerHTML = parsed;
   } catch (ex) {}
 
-  $htmlElem.value = parsed;
+  $htmlElem.value = doc.html();
+  //$htmlElem.value = parsed;
 
   $lexerElem.value = lexed;
 
