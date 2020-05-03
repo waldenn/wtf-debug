@@ -27,6 +27,10 @@ header h1 {
 	margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .github-ribbon {
 	position: absolute;
 	top: 0;
