@@ -1,9 +1,3 @@
-{{short description|Wikipedia help page}}
-{{pp-vandalism|small=yes}}
-{{for|the encyclopedic article on Wikitext|Wikitext}}
-{{Locutions pages header}}
-{{Wikipedia how to|H:WT|H:MARKUP|H:WIKICODE}}
-{{Wikitext navbox}}
 '''Wikitext''', also known as '''Wiki markup''' or '''Wikicode''', consists of the syntax and keywords used by the [[MediaWiki]] software to format a page. To learn how to see this [[hypertext markup]], and to save an edit, see [[Help:Editing]]. Generally, coding can be copied and pasted, without writing new code. There is a short list of markup and tips at [[Help:Cheatsheet]].
 
 In addition to Wikitext, some [[HTML element]]s are also allowed for presentation formatting. See [[Help:HTML in wikitext]] for information on this.

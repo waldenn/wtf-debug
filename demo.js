@@ -483,7 +483,8 @@ function setParsed(parsed, lexed) {
   $htmlElem.value = doc.html();
   //$htmlElem.value = parsed;
 
-  $lexerElem.value = lexed;
+  $lexerElem.value = JSON.stringify( doc.data, null, 4 );
+  //$lexerElem.value = lexed;
 
 }
 
